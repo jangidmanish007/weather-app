@@ -18,11 +18,11 @@
         justify-content: center;
     }
     .app-main{
-        width: 81vw;
+        width: 61vw;
         background-color: #5d425780;
         background-image: linear-gradient(315deg, #5d4257 0%, #a5c7b7 74%);
         text-align: center;
-        padding: 2rem;
+        padding: 1rem;
         border-radius: 3%;
         border-bottom: none;
         transition: all .3s;
